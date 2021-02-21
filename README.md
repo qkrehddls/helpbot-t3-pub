@@ -1,2 +1,2 @@
 # helpbot-t3-pub
-Discord Bot Public repository
+Simple Discord Bot with use nekos.life api
